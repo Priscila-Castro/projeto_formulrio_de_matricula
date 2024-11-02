@@ -29,6 +29,7 @@ padding: 2rem .5rem .5rem;
 
     .radio-image {
         background-image: url(../../assets/icons/radio-defalt.svg);
+        display: grid;
 
         width: 1.5rem;
         height: 1.5rem;
